@@ -2,7 +2,7 @@
 
 - A train derailed or a plane crashed.
 - An earthquake or tsunami killed many people.
-- A hurricane or tornado destroyed property.
+- A hurricane, tornado, or flood destroyed property.
 - Something normal happened to a celebrity.
 - Minor detail allegedly discovered about high profile court case or unsolved crime.
 - A movie has been announced or trailer released.
